@@ -1,0 +1,10 @@
+.ba {
+  border-radius: 10px;
+}
+
+input:focus {
+  outline: none;
+}
+.pb {
+  padding-bottom: 2rem;
+}
